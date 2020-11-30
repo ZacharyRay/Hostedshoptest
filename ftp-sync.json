@@ -1,0 +1,28 @@
+{
+    "remotePath": "./template106-barcelona",
+    "host": "ftp.mywebshop.io",
+    "username": "shop71886_templates",
+    "password": "TestTest1234",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "node_modules"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".scss, .js, .php, .html, .tpl"
+        ],
+        "path": ""
+    }
+}

@@ -1,0 +1,14 @@
+explorer
+gold 5000
+gold -5000
+$Çç'¨$^*ççÇefçç'´´´'⁄´$$gold 1000
+debug_mode
+Gui.Debug
+gold 5000
+debug_mode
+prestige 1000
+gold 5000
+instabuild
+gold 5000
+prestige 1000
+gold 5000

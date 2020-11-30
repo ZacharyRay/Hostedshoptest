@@ -1,0 +1,38 @@
+{
+    "USP_FREE_DELIVERY": {
+        "value": "<u>GRATIS FRAGT</u> P&Aring; K&Oslash;B OVER 500,-"
+    },
+    "USP_FREE_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_FAST_DELIVERY": {
+        "value": "<u>HURTIG LEVERING</u> 1-2 HVERDAGE"
+    },
+    "USP_FAST_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_CANCELLATION_TIME": {
+        "value": "<u>30 DAGES</u> FORTRYDELSESRET"
+    },
+    "USP_CANCELLATION_TIME_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "SHOP_NOW": {
+        "value": "Shop nu"
+    },
+    "MENU_CLOSE": {
+        "value": "Luk menu"
+    },
+    "LANG_AND_CURRENCY": {
+        "value": "Sprog og valuta"
+    },
+    "TEXT_TYPE_PRIVATE": {
+        "value": "Privat"
+    },
+    "TEXT_TYPE_BUSINESS": {
+        "value": "Virksomhed"
+    },
+    "TEXT_TYPE_PUBLIC": {
+        "value": "Organisation"
+    }
+}

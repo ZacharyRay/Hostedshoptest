@@ -1,0 +1,29 @@
+{
+    "PRESET_TITLE": "Dim",
+    "SETTINGS": {
+			"DESIGN_HEADER_BACKGROUND_COLOR": "#ffffff",
+			"DESIGN_NAVIGATION_BACKGROUND_COLOR": "#ffffff",
+			"DESIGN_NAVIGATION_FONT_COLOR": "#000000",
+			"DESIGN_BODY_BACKGROUND_COLOR": "#ffffff",
+			"DESIGN_WRAPPER_BACKGROUND_COLOR": "",
+			"DESIGN_FOOTER_BACKGROUND_COLOR": "#ffffff",
+			"DESIGN_BOX_BACKGROUND_COLOR": "#ffffff",
+			"DESIGN_BORDER_COLOR": "#eeeeee",
+			"FONT_COLOR_PRIMARY": "#000000",
+			"FONT_COLOR_HEADLINE": "#000000",
+			"FONT_COLOR_LINK": "#8f9fac",
+			"BUTTON_PRIMARY_BACKGROUND_COLOR": "#65975c",
+			"BUTTON_PRIMARY_FONT_COLOR": "#ffffff",
+			"BUTTON_DEFAULT_BACKGROUND_COLOR": "#8f9fac",
+			"BUTTON_DEFAULT_FONT_COLOR": "#ffffff",
+			"PANEL_CALLOUT_COLOR": "#dff1d9",
+			"PANEL_WARNING_COLOR": "#caeef7",
+			"PANEL_DANGER_COLOR": "#ebccd1",
+			"MODULE_RATING_COLOR": "#ffcc00",
+			"FONT_FAMILY_BASE": "'Montserrat', sans-serif|https://fonts.googleapis.com/css?family=Montserrat:300,700",
+			"FONT_FAMILY_HEADLINE": "'Montserrat', sans-serif|https://fonts.googleapis.com/css?family=Montserrat:300,700",
+                        "DESIGN_USP_BACKGROUND_COLOR": "#e8e8e8",
+                        "DESIGN_USP_COLOR": "#000000",
+                        "DESIGN_INSTAGRAM_BACKGROUND_COLOR": "#e8e8e8"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "USP_FREE_DELIVERY": {
+        "value": "<u>Kostenloser Versand</u> f&uuml;r Eink&auml;ufe &uuml;ber &euro;70"
+    },
+    "USP_FREE_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_FAST_DELIVERY": {
+        "value": "<u>Schnelle Lieferung</u> 1-2 Allt&auml;glich"
+    },
+    "USP_FAST_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_CANCELLATION_TIME": {
+        "value": "<u>30 Tage</u> Widerrufsrecht"
+    },
+    "USP_CANCELLATION_TIME_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "SHOP_NOW": {
+        "value": "Kauf jetzt"
+    },
+    "MENU_CLOSE": {
+        "value": "Menu schliessen"
+    },
+    "LANG_AND_CURRENCY": {
+        "value": "Sprache und W&auml;hrung"
+    },
+    "TEXT_TYPE_PRIVATE": {
+        "value": "Privat"
+    },
+    "TEXT_TYPE_BUSINESS": {
+        "value": "Gesch&auml;ft"
+    },
+    "TEXT_TYPE_PUBLIC": {
+        "value": "Organisation"
+    }
+}

@@ -1,0 +1,55 @@
+// ==========================================================================
+// Elementer
+// ==========================================================================
+
+html,
+input,
+textarea,
+button {
+    font-family: $font-family-base;
+    color: $font-color-primary;
+}
+
+$image-background: "" !default;
+@if $image-background != "" {
+    body {
+        background-position: center center;
+        background-repeat: repeat;
+        background-attachment: fixed;
+        background-image: url($image-background);
+    }
+}
+
+body {
+    background-color: $design-body-background-color;
+}
+
+// ==========================================================================
+// Site
+// ==========================================================================
+
+.site-wrapper {
+  background-color: $design-wrapper-background-color;
+}
+
+.site-header {
+  background-color: $design-header-background-color;
+}
+
+.site-corporate {
+  background: $design-navigation-background-color;
+  border-top: 1px solid darken($design-navigation-background-color, 10%);
+  border-bottom: 1px solid darken($design-navigation-background-color, 10%);
+}
+
+.site-navigation {
+  background: $design-navigation-background-color;
+  border-top: 1px solid darken($design-navigation-background-color, 10%);
+  border-bottom: 1px solid darken($design-navigation-background-color, 10%);
+}
+
+.site-footer {
+  background: $design-footer-background-color;
+  border-top: 1px solid darken($design-footer-background-color, 10%);
+  border-bottom: 1px solid darken($design-footer-background-color, 10%);
+}

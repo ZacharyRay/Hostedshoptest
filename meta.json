@@ -1,0 +1,24 @@
+{
+    "TEMPLATE_AUTHOR": "OnlinePlus",
+    "TEMPLATE_URL": "#",
+    "TEMPLATE_DATE": "March 2020",
+    "TEMPLATE_NAME": {
+        "TITLE": {
+            "DK": "Barcelona",
+            "UK": "Barcelona",
+            "NO": "Barcelona",
+            "SE": "Barcelona"
+        }
+    },
+    "TEMPLATE_DESCRIPTION": {
+        "TITLE": {
+            "DK":"Barcelona er et klassisk og stilfuldt design. Med sine enkle og kontrastfyldte farver lader man virkelig billederne komme til sin ret. Barcelona er et 100% responsivt design.<br /><a href='https://hostedshop.onlineplus.dk/barcelona/'>Find manualen til designet lige her</a><br /><br />Temaer:<br \/><a href='barcelona-theme'>White</a>, Pink og Dim.<br /><br />Barcelona - udarbejdet af OnlinePlus+",
+            "UK":"Barcelona is a classic and stylish design. With its simple and contrasting colors, it truly allows the images to stand out. Barcelona is a 100% responsive design.<br /><a href='https://hostedshop.onlineplus.dk/barcelona/'>Get started with the help of the user manual</a><br /><br \/>Themes:<br \/><a href='barcelona-theme'>White</a>, Pink and Dim.<br /><br />Barcelona - By OnlinePlus+",
+            "NO":"Barcelona er et klassisk og stilfullt design. Med sine enkle og kontrasterende farger lar du bildene komme til sin rett. Barcelona er et 100% responsivt design.<br /><a href='https://hostedshop.onlineplus.dk/barcelona/'>Kom i gang med hjelp av bruksanvisningen</a><br /><br />Temaer:<br \/><a href='barcelona-theme'>White</a>, Pink og Dim.<br /><br />Barcelona - Utarbeidet av OnlinePlus+",
+            "SE":"Barcelona är en klassisk och elegant design. Med sina enkla och kontrasterande färger låter det verkligen bilderna komma till sig. Barcelona är en 100% lyhörd design.<br /><a href='https://hostedshop.onlineplus.dk/barcelona/'>Kom ig&aring;ng med hj&auml;lp av bruksanvisningen</a><br /><br />Teman:<br \/><a href='barcelona-theme'>White</a>, Pink och Dim.<br /><br />Barcelona - Förberett av OnlinePlus+"
+        }
+    },
+    "DEMO_LINK":"barcelona-theme",
+    "TEMPLATE_VERSION": "Version 1.0",
+    "PARENT": "template001"
+}

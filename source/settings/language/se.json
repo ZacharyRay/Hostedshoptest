@@ -1,0 +1,38 @@
+{
+    "USP_FREE_DELIVERY": {
+        "value": "<u>GRATIS FRAKT</u> VID K&Ouml; &ouml;ver 500,-"
+    },
+    "USP_FREE_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_FAST_DELIVERY": {
+        "value": "<u>SNABB LEVERANS</u> 1-2 VARDAGAR"
+    },
+    "USP_FAST_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_CANCELLATION_TIME": {
+        "value": "<u>30 DAGARS</u> FRI RETURPOLICY"
+    },
+    "USP_CANCELLATION_TIME_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "SHOP_NOW": {
+        "value": "Shop nu"
+    },
+    "MENU_CLOSE": {
+        "value": "St&auml;ng menyn"
+    },
+    "LANG_AND_CURRENCY": {
+        "value": "Spr&aring;k och valuta"
+    },
+    "TEXT_TYPE_PRIVATE": {
+        "value": "Privat"
+    },
+    "TEXT_TYPE_BUSINESS": {
+        "value": "Business"
+    },
+    "TEXT_TYPE_PUBLIC": {
+        "value": "Organisation"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "USP_FREE_DELIVERY": {
+        "value": "<u>GRATIS FRAKT</u> P&Aring; KJ&Oslash;P OVER"
+    },
+    "USP_FREE_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_FAST_DELIVERY": {
+        "value": "<u>RASK LEVERING</u> 1-2 HVERDAGE"
+    },
+    "USP_FAST_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_CANCELLATION_TIME": {
+        "value": "<u>30 DAGERS</u> RETURRETT"
+    },
+    "USP_CANCELLATION_TIME_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "SHOP_NOW": {
+        "value": "Shop nu"
+    },
+    "MENU_CLOSE": {
+        "value": "Lukk menyen"
+    },
+    "LANG_AND_CURRENCY": {
+        "value": "Sprog og valuta"
+    },
+    "TEXT_TYPE_PRIVATE": {
+        "value": "Privat"
+    },
+    "TEXT_TYPE_BUSINESS": {
+        "value": "Virksomhed"
+    },
+    "TEXT_TYPE_PUBLIC": {
+        "value": "Organisation"
+    }
+}

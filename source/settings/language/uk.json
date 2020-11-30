@@ -1,0 +1,38 @@
+{
+    "USP_FREE_DELIVERY": {
+        "value": "<u>FREE DELIVERY</u> ON ORDERS LESS THAN &pound;100"
+    },
+    "USP_FREE_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_FAST_DELIVERY": {
+        "value": "<u>FAST DELIVERY</u> 1-2 WEEK DAYS"
+    },
+    "USP_FAST_DELIVERY_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "USP_CANCELLATION_TIME": {
+        "value": "<u>30 DAYS</u> CANCELLATION POLICY"
+    },
+    "USP_CANCELLATION_TIME_2": {
+        "value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit."
+    },
+    "SHOP_NOW": {
+        "value": "Shop now"
+    },
+    "MENU_CLOSE": {
+        "value": "Close menu"
+    },
+    "LANG_AND_CURRENCY": {
+        "value": "Language and currency"
+    },
+    "TEXT_TYPE_PRIVATE": {
+        "value": "Private"
+    },
+    "TEXT_TYPE_BUSINESS": {
+        "value": "Business"
+    },
+    "TEXT_TYPE_PUBLIC": {
+        "value": "Organisation"
+    }
+}
